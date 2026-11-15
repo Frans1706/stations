@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "updated": "2026-11-15",
+  "stations": [
+    {
+      "naam": "NPO Radio 1",
+      "url": "http://icecast.omroep.nl/radio1-bb-mp3"
+    },
+    {
+      "naam": "NPO Radio 2",
+      "url": "http://icecast.omroep.nl/radio2-bb-mp3"
+    },
+    {
+      "naam": "NPO Klassiek",
+      "url": "http://icecast.omroep.nl/radio4-bb-mp3"
+    },
+    {
+      "naam": "3FM",
+      "url": "http://icecast.omroep.nl/3fm-bb-mp3"
+    },
+    {
+      "naam": "Radio 538",
+      "url": "http://27823.live.streamtheworld.com/RADIO538.mp3"
+    },
+    {
+      "naam": "Radio 10 60/70s",
+      "url": "http://22333.live.streamtheworld.com:3690/TLPSTR18_SC"
+    },
+    {
+      "naam": "Radio Veronica",
+      "url": "http://25233.live.streamtheworld.com/VERONICA.mp3"
+    },
+    {
+      "naam": "SLAM!",
+      "url": "http://28973.live.streamtheworld.com/WEB13_MP3_SC"
+    },
+    {
+      "naam": "Sky Radio",
+      "url": "http://22543.live.streamtheworld.com/SKYRADIO.mp3?dist=radiogarden"
+    }
+  ]
+}
